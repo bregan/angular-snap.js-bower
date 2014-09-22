@@ -1,0 +1,10 @@
+{
+    "name": "angular-snap",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bregan/angular-snap.js-bower.git"
+    },
+    "main": "./angular-snap.js",
+    "style": "./angular-snap.css"
+}
